@@ -1,35 +1,36 @@
-# Professional README Generator
+# Professional README.md Generator
 
     ## Table of Contents
     * [Description](#description)
-    * [Usage Instructions](#usage-instructions)
-    * [Installation](#installation-instructions)
+    * [Usage Instructions](#usage)
+    * [Installation](#installation)
     * [Testing](#testing) 
-    * [Contributing Members](#contributing-members)
+    * [Contributing Members](#contributors)
     * [License](#license)
-    * [Questions/Inquiries](#questions/inquiries)
+    * [Questions](#questions)
     
     ## Description
-    applications prompts user to describe context of Teadme file
+    creates a README.md file from user input
 
     ## Usage Instructions
-    answer questions to generate readme
+    run node index.js and answer a few prompts
 
     ## Installation Instructions 
-    requires inquirer
+    npm install inquirer
 
     ## Testing 
-    run test on node index.js
+    run node index.js
 
     ## Contributing Members
-    open to new prompts
+    please contact me via email or github
 
     ## License
-    None
+    MIT
 
-    ## Questions/Inquiries 
+    ## Questions
+    
     ### Email
-    bernal@hotmail.com
+    bernal1307@gmail.com
 
     ### GitHub Profile
     [GitHub Profile](https://github.com/JPablo73)

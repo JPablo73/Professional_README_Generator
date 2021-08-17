@@ -1,15 +1,15 @@
-// generates markdown
+// Functino to generate markdown
 function generateMarkdown(data) {
   return `# ${data.title}
 
     ## Table of Contents
     * [Description](#description)
-    * [Usage Instructions](#usage-instructions)
-    * [Installation](#installation-instructions)
+    * [Usage Instructions](#usage)
+    * [Installation](#installation)
     * [Testing](#testing) 
-    * [Contributing Members](#contributing-members)
+    * [Contributing Members](#contributors)
     * [License](#license)
-    * [Questions/Inquiries](#questions/inquiries)
+    * [Questions](#questions)
     
     ## Description
     ${data.description}
@@ -29,7 +29,8 @@ function generateMarkdown(data) {
     ## License
     ${data.license}
 
-    ## Questions/Inquiries 
+    ## Questions
+    
     ### Email
     ${data.email}
 
