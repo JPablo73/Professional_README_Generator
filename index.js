@@ -68,7 +68,7 @@ function init() {
         // Displays answers to questions
         console.log(answers);
         // Creates the markdown file based on user input
-        writeToFile('README.md', data);
+        writeToFile('Sample_README.md', data);
     })
 }
 
