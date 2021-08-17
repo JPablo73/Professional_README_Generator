@@ -1,38 +1,37 @@
 # Professional README.md Generator
 
-    ## Table of Contents
-    * [Description](#description)
-    * [Usage Instructions](#usage)
-    * [Installation](#installation)
-    * [Testing](#testing) 
-    * [Contributing Members](#contributors)
-    * [License](#license)
-    * [Questions](#questions)
+## Table of Contents
+* [Description](#description)
+* [Usage Instructions](#usage)
+* [Installation](#installation)
+* [Testing](#testing) 
+* [Contributing Members](#contributors)
+* [License](#license)
+* [Questions](#questions)
     
-    ## Description
-    creates a README.md file from user input
+## Description
+renders a README.md file from user input
 
-    ## Usage Instructions
-    run node index.js and answer a few prompts
+## Usage Instructions
+run node index.js and answer the prompst provided
 
-    ## Installation Instructions 
-    npm install inquirer
+## Installation Instructions 
+requires npm i inquirer
 
-    ## Testing 
-    run node index.js
+## Testing 
+run node index.js
 
-    ## Contributing Members
-    please contact me via email or github
+## Contributing Members
+please contact me via email or github
 
-    ## License
-    MIT
+## License
+MIT
 
-    ## Questions
+## Questions
     
-    ### Email
-    bernal1307@gmail.com
+### Email
+bernal1307@gmail.com
 
-    ### GitHub Profile
-    [GitHub Profile](https://github.com/JPablo73)
+### GitHub Profile
+[GitHub Profile](https://github.com/JPablo73)
     
-  
